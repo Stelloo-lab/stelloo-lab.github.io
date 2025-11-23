@@ -27,9 +27,6 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
-
-
 .team-photo img {
   width: 100%;
   max-height: 300px;
@@ -38,8 +35,6 @@ footer {
   display: block;
   margin-bottom: 40px;
 }
-
-
 
 .team-container {
   display: flex;
@@ -67,7 +62,6 @@ footer {
 }
 
 
-
 .publication-container {
   display: flex;
   flex-direction: column;
@@ -87,6 +81,7 @@ footer {
 .pub-info {
   max-width: 800px;
   font-size: 0.95em;
+  text-align: justify;
 }
 
 
@@ -127,4 +122,5 @@ footer {
 .news-item p {
     line-height: 1.6;
 }
+
 
