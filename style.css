@@ -54,13 +54,10 @@ footer {
   gap: 80px;
 }
 
-
-
-
 .member-info {
   max-width: 800px;
+  text-align: justify;
 }
-
 
 .team-member img {
     width: 150px;
@@ -130,3 +127,4 @@ footer {
 .news-item p {
     line-height: 1.6;
 }
+
