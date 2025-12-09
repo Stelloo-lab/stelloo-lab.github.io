@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stelloo-lab.org/sitemap.xml
