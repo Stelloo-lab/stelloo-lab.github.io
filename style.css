@@ -55,8 +55,8 @@ footer {
 }
 
 .team-member img {
-    width: 150px;
-    height: 150px;
+    width: 150px  !important;
+    height: 150px  !important;
     border-radius: 8px;
     object-fit: cover;margin-left: 80px;margin-top: 30px;
 }
@@ -124,6 +124,7 @@ footer {
 .news-item p {
     line-height: 1.6;
 }
+
 
 
 
